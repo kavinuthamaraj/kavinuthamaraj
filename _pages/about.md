@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m come from a place that takes far more than words to describe it,  I speak a language that is over 2500+ years old, I come from a region where traces of human presence dates back over 10,000 years, I come from a land where love for the language runs so deep  in our people that even our land is named after it, I come from my motherland கோவை (Kovai), modernly know as Coimbatore in the State of தமிழ்நாடு (TamilNadu). 
+I come from a place that takes far more than words to describe it,  I speak a language that is over 2500+ years old, I come from a region where traces of human presence dates back over 10,000 years, I come from a land where love for the language runs so deep  in our people that even our land is named after it, I come from my motherland கோவை (Kovai), modernly know as Coimbatore in the State of தமிழ்நாடு (TamilNadu). 
 
 
 <div align="center" style="display: flex; gap: 40px; justify-content: center;">
   <div>
-    <img src="/kavinuthamaraj/images/tamilnadu_map.png" width="250" alt="TamilNadu Map"><br>
+    <img src="/kavinuthamaraj/images/tamilnadu_map.png" width="500" alt="TamilNadu Map"><br>
     <sub><b>TamilNadu State Map</b></sub>
   </div>
   <div>
-    <img src="/kavinuthamaraj/images/tamil_language.png" width="250" alt="Tamil Language"><br>
+    <img src="/kavinuthamaraj/images/tamil_language.png" width="500" alt="Tamil Language"><br>
     <sub><b>Tamil Language</b></sub>
   </div>
 </div>
@@ -49,8 +49,8 @@ Research Experience
 - Selected as the first student from NIT Raipur for the prestigious TEEP (Taiwan Experience Education Program) funded by the Taiwan Ministry of Education.
 - Research under Dr. Wang-Chi Vincent Yeh, focusing on machine learning-assisted discovery of nano-materials for green hydrogen generation, the program provides a stipend of NTD$ 15,000/month (USD$ 510/month).
 
-
-
+<br>
+<br>
 
 **The University of Sydney, Australia**<br>
 *Incoming Remote Research Intern*
@@ -59,8 +59,8 @@ Research Experience
 
 - Research under Dr. Dominic Williamson, Nano Institute, The University of Sydney, focusing on Quantum Error Correction.
 
-
-
+<br>
+<br>
 
 **Past Experience**
 
@@ -79,8 +79,8 @@ Research Experience
 - Generated learning curves and efficiency plots, revealing HQNN’s superior IoU/parameter ratio (4.00e-07 vs 1.68e-07), highlighting potential for resource-constrained medical imaging applications.
 - Tools & Technologies: PennyLane, PyTorch, MONAI, Dice Score, nnUNet, Streamlit.
 
-
-
+<br>
+<br>
 
 **Indian Institute of Science, Bangalore (IISc)**<br>
 *Quantum Computing Research Intern – Applied Photonics Lab*
