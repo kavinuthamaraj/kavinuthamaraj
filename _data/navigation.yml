@@ -17,10 +17,13 @@ main:
   #  url: /talks/    
 
   #- title: "Teaching"
-  #  url: /teaching/    
-    
+  #  url: /teaching/  
+
   - title: "Internships"
-    url: /portfolio/
+    url: /internships/
+
+  #- title: "Internships"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
