@@ -132,6 +132,14 @@
   font-size: $type-size-5;
 }
 
+.sidebar .author__name--local {
+  font-family: $sans-serif, "Noto Sans Tamil", "Latha", "Arial Unicode MS", sans-serif;
+  font-size: $type-size-6;   /* smaller than main name */
+  font-weight: normal;
+  color: $muted-text-color;  /* a lighter gray tone */
+  margin-top: -0.25em;       /* tucks it closer under main name */
+}
+
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
