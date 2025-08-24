@@ -9,8 +9,8 @@
 
 main:
   
-  - title: "Internships"
-    url: /publications/
+  #title: "Internships"
+  #  url: /publications/
   
 
   #- title: "Talks"
@@ -19,8 +19,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  # url: /portfolio/
+  - title: "Internships"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
