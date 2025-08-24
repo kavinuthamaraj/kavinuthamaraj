@@ -21,6 +21,8 @@ I come from a place that takes far more than words to describe it,  I speak a la
   </div>
 </div>
 
+<br>
+
 I'm a pre-final year undergraduate student at the National Institute of Technology Raipur, India, majoring in Information Technology (a blend of Computer Science and Electronics Engineering).
 
 Just because I’m still an undergrad and want to be part of a deep tech like quantum computing, I’ve been deferred over 50+ times, left unanswered more than 300+ times, and have been graciously granted opportunities just 7 times. The research experiences I’ve had are only because of those few opportunities, and I remain thankful for them. I’ve made sure to use each one to the fullest.
@@ -38,6 +40,7 @@ Some of the professors I’ve worked under, and am excited to work with in the n
 
 Research Experience
 ====
+<br>
 **Upcoming/Current Experience**
 
 
@@ -50,7 +53,6 @@ Research Experience
 - Research under Dr. Wang-Chi Vincent Yeh, focusing on machine learning-assisted discovery of nano-materials for green hydrogen generation, the program provides a stipend of NTD$ 15,000/month (USD$ 510/month).
 
 <br>
-<br>
 
 **The University of Sydney, Australia**<br>
 *Incoming Remote Research Intern*
@@ -59,7 +61,6 @@ Research Experience
 
 - Research under Dr. Dominic Williamson, Nano Institute, The University of Sydney, focusing on Quantum Error Correction.
 
-<br>
 <br>
 
 **Past Experience**
@@ -79,7 +80,6 @@ Research Experience
 - Generated learning curves and efficiency plots, revealing HQNN’s superior IoU/parameter ratio (4.00e-07 vs 1.68e-07), highlighting potential for resource-constrained medical imaging applications.
 - Tools & Technologies: PennyLane, PyTorch, MONAI, Dice Score, nnUNet, Streamlit.
 
-<br>
 <br>
 
 **Indian Institute of Science, Bangalore (IISc)**<br>
