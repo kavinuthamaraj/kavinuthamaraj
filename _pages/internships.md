@@ -4,8 +4,6 @@ title: "Internships"
 permalink: /internships/
 ---
 
-# Internships
-
 ## Upcoming Internships
 
 ### National Dong Hwa University, Hualien, Taiwan (NDHU)
