@@ -134,10 +134,10 @@
 
 .sidebar .author__name--local {
   font-family: $sans-serif, "Noto Sans Tamil", "Latha", "Arial Unicode MS", sans-serif;
-  font-size: $type-size-7;   /* smaller than main name */
+  font-size: $type-size-5;   /* smaller than main name */
   font-weight: normal;
   color: #666;               /* ✅ plain gray works everywhere */
-  margin-top: -0.10em;
+  margin-top: -0.15em;
 }
 
 .sidebar .author__desktop {
