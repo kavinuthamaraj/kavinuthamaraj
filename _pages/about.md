@@ -37,11 +37,12 @@ Some of the professors I’ve worked under, and am excited to work with in the n
 
 - Prof. Dominic Williamson, Nano Institute, The University of Sydney (QS World Ranking 25).
 
+<br>
 
 Research Experience
 ====
 <br>
-**Upcoming/Current Experience**
+**Upcoming Experiences**
 
 
 **National Dong Hwa University, Hualein, Taiwan (NDHU)**<br>
@@ -63,7 +64,7 @@ Research Experience
 
 <br>
 
-**Past Experience**
+**Past Experiences**
 
 
 **Universiti Malaya (UM), Malaysia**<br>
