@@ -9,20 +9,17 @@ redirect_from:
 
 I’m come from a place that takes far more than words to describe it,  I speak a language that is over 2500+ years old, I come from a region where traces of human presence dates back over 10,000 years, I come from a land where love for the language runs so deep  in our people that even our land is named after it, I come from my motherland கோவை (Kovai), modernly know as Coimbatore in the State of தமிழ்நாடு (TamilNadu). 
 
-kavinuthamaraj/images/tamilnadu_map.png
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="/kavinuthamaraj/images/tamilnadu_map.png" width="160" alt="TamilNadu Map"><br>
-      <sub> TamilNadu State Map</sub>
-    </td>
-    <td align="center">
-      <img src="/kavinuthamaraj/images/tamil_language.png" width="160" alt="Tamil Language"><br>
-      <sub>Tamil Language</sub>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; gap: 40px; justify-content: center;">
+  <div>
+    <img src="/kavinuthamaraj/images/tamilnadu_map.png" width="250" alt="TamilNadu Map"><br>
+    <sub><b>TamilNadu State Map</b></sub>
+  </div>
+  <div>
+    <img src="/kavinuthamaraj/images/tamil_language.png" width="250" alt="Tamil Language"><br>
+    <sub><b>Tamil Language</b></sub>
+  </div>
+</div>
 
 I'm a pre-final year undergraduate student at the National Institute of Technology Raipur, India, majoring in Information Technology (a blend of Computer Science and Electronics Engineering).
 
@@ -43,7 +40,8 @@ Research Experience
 ====
 **Upcoming/Current Experience**
 
-**National Dong Hwa University, Hualein, Taiwan (NDHU)**
+
+**National Dong Hwa University, Hualein, Taiwan (NDHU)**<br>
 *Incoming Winter Research Intern - TEEP (Taiwan Experience Education Program)*
            
 *Dec 2025 – Feb 2026 (Scheduled)*
@@ -52,7 +50,9 @@ Research Experience
 - Research under Dr. Wang-Chi Vincent Yeh, focusing on machine learning-assisted discovery of nano-materials for green hydrogen generation, the program provides a stipend of NTD$ 15,000/month (USD$ 510/month).
 
 
-**The University of Sydney, Australia**
+
+
+**The University of Sydney, Australia**<br>
 *Incoming Remote Research Intern*
                 
 *Dec 2025 – Jan 2026 (Scheduled)*
@@ -60,9 +60,12 @@ Research Experience
 - Research under Dr. Dominic Williamson, Nano Institute, The University of Sydney, focusing on Quantum Error Correction.
 
 
+
+
 **Past Experience**
 
-**Universiti Malaya (UM), Malaysia**
+
+**Universiti Malaya (UM), Malaysia**<br>
 *Quantum Machine Learning Research Intern*
                 
 *June 2025 – July 2025*
@@ -77,7 +80,9 @@ Research Experience
 - Tools & Technologies: PennyLane, PyTorch, MONAI, Dice Score, nnUNet, Streamlit.
 
 
-**Indian Institute of Science, Bangalore (IISc)**
+
+
+**Indian Institute of Science, Bangalore (IISc)**<br>
 *Quantum Computing Research Intern – Applied Photonics Lab*
                 
 *May 2025 – June 2025*
