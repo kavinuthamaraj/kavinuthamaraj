@@ -32,9 +32,7 @@ main:
   #  url: /cv/
 
   - title: "CV"
-    url: /cvv/ 
-  # - title: "CV"
-  #   url: /cv-json/
+    url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
