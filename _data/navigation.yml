@@ -33,6 +33,9 @@ main:
 
   - title: "CV"
     url: /cv-json/
+
+  - title: "Resume"
+    url: /resume/
     
   #- title: "Guide"
   #  url: /markdown/
