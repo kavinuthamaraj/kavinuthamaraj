@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Resume"
-permalink: /resume/
+permalink: /resume-view/
 author_profile: true
 ---
 
@@ -12,3 +12,4 @@ author_profile: true
   <br>
   <a href="{{ site.baseurl }}/files/resumee.pdf" download="resumee.pdf" class="btn" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Download Resume</a>
 </div>
+<div style="clear: both;"></div>
